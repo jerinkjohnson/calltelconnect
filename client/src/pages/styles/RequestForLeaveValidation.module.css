@@ -1,0 +1,190 @@
+.endDate,
+.leaveRequest,
+.reason,
+.startDate,
+.type {
+  position: absolute;
+  left: 21.13px;
+  display: inline-block;
+}
+.leaveRequest {
+  top: 30px;
+  font-size: 30px;
+  color: #252c58;
+  width: 256.5px;
+}
+.endDate,
+.reason,
+.startDate,
+.type {
+  top: 105px;
+  width: 61.4px;
+}
+.endDate,
+.reason,
+.startDate {
+  top: 202px;
+  width: 132.8px;
+}
+.endDate,
+.reason {
+  top: 299px;
+  width: 114.7px;
+}
+.reason {
+  top: 396px;
+  width: 94.6px;
+}
+.frameChild,
+.sickLeaveParent {
+  font-weight: 200;
+  font-family: Lexend;
+  font-size: 18px;
+  height: 49px;
+  padding: 13px 14.08502197265625px;
+  color: #727272;
+}
+.sickLeaveParent {
+  position: absolute;
+  top: 97px;
+  left: 172.04px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1.5px solid #3354f4;
+  box-sizing: border-box;
+  width: 304.8px;
+}
+.frameChild {
+  outline: 0;
+  top: 196px;
+  left: 172px;
+  width: 258px;
+}
+.frameChild,
+.frameChild1,
+.rectangleDiv {
+  position: absolute;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 2px solid #e3e3e3;
+  box-sizing: border-box;
+}
+.frameChild1 {
+  outline: 0;
+  font-weight: 200;
+  font-family: Lexend;
+  font-size: 18px;
+  top: 294px;
+  left: 172px;
+  width: 258px;
+  height: 49px;
+  padding: 14px 14.08502197265625px 12px;
+  color: #727272;
+}
+.rectangleDiv {
+  top: 385px;
+  left: 172.04px;
+  width: 304.8px;
+  height: 127px;
+}
+.done,
+.enterYourReason {
+  position: absolute;
+  font-family: Lexend;
+  text-align: left;
+  display: inline-block;
+}
+.enterYourReason {
+  border: 0;
+  background-color: transparent;
+  font-weight: 200;
+  font-size: 18px;
+  outline: 0;
+  top: 399px;
+  left: 186.12px;
+  color: #727272;
+  width: 173px;
+  height: 59px;
+}
+.done {
+  top: 10.68px;
+  left: 38.48px;
+  font-size: 22px;
+  color: #fff;
+  width: 63.2px;
+  height: 24.9px;
+}
+.doneWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #3354f4;
+  position: absolute;
+  top: 540px;
+  left: 339.04px;
+  border-radius: 10px;
+  width: 135.8px;
+  height: 51px;
+}
+.vectorIcon {
+  width: 25.2px;
+  position: relative;
+  height: 25px;
+}
+.closeButton {
+  cursor: pointer;
+  border: 0;
+  padding: 2px;
+  background-color: transparent;
+  position: absolute;
+  top: 35px;
+  left: 430px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.dateInvalid,
+.fieldCannotBe,
+.invalidEndDate,
+.leaveTypeRequired {
+  position: absolute;
+  top: 24.64%;
+  left: 179px;
+  font-size: 10px;
+  font-family: Poppins;
+  color: #ce7171;
+}
+.dateInvalid,
+.fieldCannotBe,
+.invalidEndDate {
+  top: 40.48%;
+}
+.fieldCannotBe,
+.invalidEndDate {
+  top: 54.88%;
+}
+.fieldCannotBe {
+  top: 81.92%;
+}
+.leaveRequestParent {
+  position: absolute;
+  top: calc(50% - 263px);
+  left: calc(50% - 224px);
+  border-radius: 25px;
+  background-color: #fff;
+  box-shadow: 5px 4px 50px 5px rgba(51, 84, 244, 0.3);
+  width: 498px;
+  height: 625px;
+}
+.requestForLeaveValidation {
+  width: 100%;
+  position: relative;
+  background-color: #e1e6fd;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #727272;
+  font-family: Lexend;
+}

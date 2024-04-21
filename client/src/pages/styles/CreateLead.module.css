@@ -1,0 +1,260 @@
+.formFrameChild {
+  position: absolute;
+  top: 62px;
+  left: 47px;
+  border-radius: 49px;
+  background-color: #fff;
+  width: 1346px;
+  height: 778px;
+}
+.businessSolutionrafikiIcon {
+  position: absolute;
+  height: 49.58%;
+  width: 41.13%;
+  top: 26.97%;
+  right: 5.4%;
+  bottom: 23.45%;
+  left: 53.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.formFrameItem {
+  position: absolute;
+  top: 88px;
+  left: 74px;
+  border-radius: 38px;
+  width: 1292px;
+  height: 79px;
+}
+.campLejeuneLead,
+.priorityCampaign {
+  position: absolute;
+  line-height: 64px;
+  font-weight: 800;
+}
+.campLejeuneLead {
+  margin: 0;
+  top: 95.5px;
+  left: 104.5px;
+  font-size: 36px;
+  font-family: inherit;
+}
+.priorityCampaign {
+  top: 103px;
+  left: 770px;
+  opacity: 0.71;
+}
+.submit {
+  position: relative;
+  font-size: 16px;
+  line-height: 64px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.submitButtonChild,
+.submitWrapper {
+  position: absolute;
+  background-color: #3650d2;
+  cursor: pointer;
+}
+.submitWrapper {
+  border: 0;
+  padding: 0 16px;
+  top: 745px;
+  left: 674px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.submitButtonChild {
+  top: 5px;
+  left: 0;
+  border-radius: 105px;
+  width: 108px;
+  height: 53px;
+}
+.back {
+  position: absolute;
+  top: 0.5px;
+  left: 32px;
+  font-size: 16px;
+  line-height: 64px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.submitButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 96px;
+  left: 1246px;
+  border-radius: 252px;
+  width: 108px;
+  height: 64px;
+}
+.anyMedicalDiagnosis,
+.wereTheyLiving {
+  width: 205px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+}
+.anyMedicalDiagnosis {
+  line-height: 64px;
+}
+.areYouCurrently {
+  margin: 0;
+}
+.areYouCurrentlyContainer1 {
+  width: 100%;
+}
+.agentName,
+.wereTheyLivingOrWorkingAtParent {
+  position: absolute;
+  left: 177px;
+  color: #000;
+  display: flex;
+}
+.wereTheyLivingOrWorkingAtParent {
+  top: 233px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 41px 0;
+  gap: 73px;
+}
+.agentName {
+  top: 633px;
+  line-height: 20px;
+  font-weight: 600;
+  align-items: center;
+  width: 205px;
+  height: 37px;
+}
+.frameChild {
+  border: 0;
+  outline: 0;
+  background-color: rgba(217, 217, 217, 0.57);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 7px;
+  width: 268px;
+  height: 99px;
+}
+.fieldCannotBe,
+.mustBeYes {
+  display: inline-block;
+  height: 15px;
+}
+.mustBeYes {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  width: 268px;
+}
+.fieldCannotBe {
+  top: 220px;
+}
+.fieldCannotBe,
+.frameInner,
+.frameItem,
+.shouldBeNo {
+  position: absolute;
+  left: 0;
+  width: 268px;
+}
+.shouldBeNo {
+  top: 341px;
+  display: inline-block;
+  height: 15px;
+}
+.frameInner,
+.frameItem {
+  border: 0;
+  outline: 0;
+  background-color: rgba(217, 217, 217, 0.57);
+  top: 138px;
+  border-radius: 7px;
+  height: 78px;
+}
+.frameInner {
+  top: 228px;
+  height: 89px;
+}
+.frameParent {
+  width: 268px;
+  position: relative;
+  height: 368px;
+}
+.formFrameInner,
+.selectAgent {
+  position: absolute;
+  left: 418px;
+  font-size: 10px;
+  color: #ce7171;
+}
+.formFrameInner {
+  top: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selectAgent {
+  top: 683px;
+  display: inline-block;
+  width: 268px;
+  height: 15px;
+}
+.agentName1 {
+  position: absolute;
+  top: 624px;
+  left: 408px;
+  background-color: transparent;
+  border: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 10px;
+}
+.createLead,
+.formFrame {
+  position: relative;
+  overflow: hidden;
+}
+.formFrame {
+  width: 1440px;
+  height: 890px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Poppins;
+}
+.createLead {
+  width: 100%;
+  background-color: #e1e6fd;
+  height: 900px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+}

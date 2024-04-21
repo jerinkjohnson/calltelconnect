@@ -1,0 +1,256 @@
+.calltelconnect {
+  position: absolute;
+  top: 31px;
+  left: 42px;
+  font-weight: 600;
+}
+.recaptcha-box{
+  color: red;
+  top:80px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: rgba(199, 213, 242, 0.41);
+  width: 735px;
+  height: 859px;
+}
+.logInTo,
+.toChangePhone {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.logInTo {
+  top: 0;
+  font-weight: 600;
+  width: 518px;
+  height: 60px;
+}
+.toChangePhone {
+  top: 64px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  width: 476px;
+}
+.logInToCalltelconnectParent,
+.saly10Icon {
+  position: absolute;
+  top: 299px;
+  left: 0;
+  width: 518px;
+  height: 94px;
+}
+.saly10Icon {
+  top: 0;
+  left: 84px;
+  width: 371px;
+  height: 135px;
+  object-fit: cover;
+}
+.groupParent,
+.phoneCall1Icon {
+  position: absolute;
+  top: 370px;
+  left: 98px;
+  width: 518px;
+  height: 393px;
+}
+.phoneCall1Icon {
+  height: 60.87%;
+  width: 11.29%;
+  top: 21.74%;
+  right: 88.71%;
+  bottom: 17.39%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 20px;
+}
+.phoneCall1Parent {
+  position: absolute;
+  height: 2.68%;
+  width: 16.87%;
+  top: 2.79%;
+  right: 6.26%;
+  bottom: 94.53%;
+  left: 76.87%;
+  font-size: 15px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 21px;
+  left: 683px;
+  width: 735px;
+  height: 859px;
+  font-size: 40px;
+}
+.enterPhoneNumber,
+.logIn {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logIn {
+  font-weight: 500;
+}
+.enterPhoneNumber {
+  display: inline-block;
+  width: 308px;
+}
+.enterPhoneNumberForOtpWrapper {
+  position: absolute;
+  top: 97px;
+  left: 0;
+  width: 308px;
+  height: 24px;
+  font-size: var(--font-size-base);
+}
+.logInParent,
+.phone {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logInParent {
+  width: 308px;
+  height: 121px;
+}
+.phone {
+  font-weight: 500;
+}
+.enterYourPhone {
+  position: absolute;
+  top: 48.44%;
+  left: 6.29%;
+  font-size: var(--font-size-base);
+  color: var(--color-lightcoral);
+  display: none;
+}
+.instanceChild {
+  position: absolute;
+  height: 3.13%;
+  width: 100%;
+  top: 96.88%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-midnightblue);
+}
+.message1Icon {
+  position: absolute;
+  height: 26.56%;
+  width: 3.96%;
+  top: 54.69%;
+  right: 96.04%;
+  bottom: 18.75%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.phoneParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 64px;
+}
+.enterAValid,
+.input {
+  position: absolute;
+  top: 38%;
+  left: 4%;
+  font-size: var(--font-size-base);
+  color: var(--color-lightcoral);
+}
+.input {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-poppins);
+  background-color: transparent;
+  width: 90.91%;
+  top: 36.96%;
+  left: 5.83%;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+}
+.groupItem,
+.instanceParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 92px;
+}
+.groupItem {
+  border-radius: 32px;
+  background-color: #0c21c1;
+  box-shadow: 0 4px 26px rgba(0, 0, 0, 0.25);
+  height: 53px;
+}
+.sendOtp {
+  position: absolute;
+  top: 14px;
+  left: 155px;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.groupDiv,
+.rectangleGroup {
+  position: absolute;
+  left: 0;
+  width: 429px;
+}
+.rectangleGroup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 109px;
+  left: 15px;
+  height: 53px;
+}
+.groupDiv {
+  top: 200px;
+  height: 162px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkgray);
+}
+.groupContainer,
+.validationPleaseEnter10DInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 429px;
+  height: 362px;
+}
+.validationPleaseEnter10DInner {
+  top: 274px;
+  left: 118px;
+  font-size: 30px;
+}
+.validationPleaseEnter10D {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

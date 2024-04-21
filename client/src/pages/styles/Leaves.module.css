@@ -1,0 +1,806 @@
+.saly10Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.calltellogolink {
+  text-decoration: none;
+  position: absolute;
+  top: 843px;
+  left: 663px;
+  width: 113px;
+  height: 30px;
+}
+.request {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 89px;
+  overflow: hidden;
+}
+.navigationChild {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #3354f4;
+  position: absolute;
+  top: 13px;
+  left: 525px;
+  border-radius: 15px;
+  width: 384px;
+  height: 65px;
+}
+.navigationChild:hover {
+  background-color: #1834bc;
+}
+.requestLeave {
+  position: absolute;
+  top: 35px;
+  left: 664px;
+  font-weight: 300;
+}
+.halfLeaveChild,
+.navigation {
+  position: absolute;
+  top: 679px;
+  left: 0;
+  width: 1440px;
+  height: 89px;
+}
+.halfLeaveChild {
+  top: 0;
+  border-radius: 15px;
+  background-color: #ccddfa;
+  width: 250px;
+  height: 134px;
+}
+.lessThanYesterday {
+  position: absolute;
+  top: 3px;
+  left: 21px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #97ce71;
+  width: 15px;
+  height: 15px;
+  opacity: 0.3;
+}
+.vectorIcon {
+  position: absolute;
+  height: 26.67%;
+  width: 4.85%;
+  top: 40%;
+  right: 93.33%;
+  bottom: 33.33%;
+  left: 1.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lessThanYesterdayParent {
+  position: absolute;
+  top: 100px;
+  left: 26px;
+  width: 165px;
+  height: 15px;
+}
+.div,
+.halfLeave1 {
+  position: absolute;
+  top: 75px;
+  left: 26px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.div {
+  top: 24px;
+  font-size: 38px;
+}
+.halfLeaveItem {
+  position: absolute;
+  top: 17px;
+  left: 188px;
+  border-radius: 50%;
+  background-color: #e6eaf5;
+  width: 42px;
+  height: 42px;
+  opacity: 0.5;
+}
+.materialSymbolsbedtimeOutliIcon {
+  position: absolute;
+  top: 25px;
+  left: 197px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.casualleaverectangle,
+.halfLeave {
+  position: absolute;
+  top: 322px;
+  left: 735px;
+  width: 250px;
+  height: 134px;
+}
+.casualleaverectangle {
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: #dadee5;
+}
+.casualLeave1,
+.increaseThanYesterday {
+  position: absolute;
+  top: 75px;
+  left: 26px;
+  font-weight: 300;
+}
+.increaseThanYesterday {
+  top: 102px;
+  left: 47px;
+  font-size: 12px;
+  opacity: 0.5;
+}
+.casualLeaveChild,
+.casualLeaveItem {
+  position: absolute;
+  top: 19px;
+  left: 187px;
+  border-radius: 50%;
+  background-color: #e6eaf5;
+  width: 42px;
+  height: 42px;
+  opacity: 0.5;
+}
+.casualLeaveItem {
+  top: 99px;
+  left: 26px;
+  background-color: #ce7171;
+  width: 15px;
+  height: 15px;
+  opacity: 0.3;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 2.99%;
+  width: 3.2%;
+  top: 78.36%;
+  right: 84.8%;
+  bottom: 18.66%;
+  left: 12%;
+  object-fit: contain;
+}
+.vectorIcon2 {
+  height: 14.93%;
+  width: 8%;
+  top: 22.39%;
+  right: 12.8%;
+  bottom: 62.69%;
+  left: 79.2%;
+}
+.casualLeave {
+  position: absolute;
+  top: 322px;
+  left: 452px;
+  width: 250px;
+  height: 134px;
+  font-size: 16px;
+}
+.timeOffHrsChild {
+  position: absolute;
+  top: 23px;
+  left: 184px;
+  border-radius: 50%;
+  background-color: #e6eaf5;
+  width: 42px;
+  height: 42px;
+  opacity: 0.5;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 14.7%;
+  width: 8.52%;
+  top: 25.37%;
+  right: 13.88%;
+  bottom: 59.93%;
+  left: 77.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.timeOffHrsItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: #eaeef4;
+  width: 250px;
+  height: 134px;
+}
+.increaseThanLast {
+  position: absolute;
+  top: 103px;
+  left: 45px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.timeOffHrsInner {
+  position: absolute;
+  top: 100px;
+  left: 24px;
+  border-radius: 50%;
+  background-color: #ccddfa;
+  width: 15px;
+  height: 15px;
+  opacity: 0.5;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 2.99%;
+  width: 3.2%;
+  top: 79.1%;
+  right: 86%;
+  bottom: 17.91%;
+  left: 10.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.timeOff {
+  top: 75px;
+  left: 24px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.ellipseDiv,
+.h,
+.timeOff {
+  position: absolute;
+}
+.h {
+  top: 24px;
+  left: 24px;
+  font-size: 38px;
+  font-weight: 300;
+}
+.ellipseDiv {
+  top: 17px;
+  left: 184px;
+  border-radius: 50%;
+  background-color: #e6eaf5;
+  width: 42px;
+  height: 42px;
+  opacity: 0.5;
+}
+.fluentMdl2dateTime12Icon {
+  position: absolute;
+  top: 28px;
+  left: 195px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.sickLeaveTakenChild,
+.timeOffHrs {
+  position: absolute;
+  top: 322px;
+  left: 1022px;
+  width: 250px;
+  height: 134px;
+}
+.sickLeaveTakenChild {
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  object-fit: cover;
+}
+.lessThanYesterday1 {
+  position: absolute;
+  top: 104px;
+  left: 47px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.sickLeaveTakenItem {
+  position: absolute;
+  top: 101px;
+  left: 26px;
+  border-radius: 50%;
+  background-color: #97ce71;
+  width: 15px;
+  height: 15px;
+  opacity: 0.3;
+}
+.vectorIcon5 {
+  position: absolute;
+  height: 2.99%;
+  width: 3.2%;
+  top: 79.85%;
+  right: 85.2%;
+  bottom: 17.16%;
+  left: 11.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2,
+.sickLeaveTaken1 {
+  position: absolute;
+  top: 77px;
+  left: 26px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.div2 {
+  top: 19px;
+  font-size: 38px;
+}
+.materialSymbolsavgTimeOutlIcon {
+  position: absolute;
+  top: 26px;
+  left: 196px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.sickLeaveTaken {
+  position: absolute;
+  top: 154px;
+  left: 735px;
+  width: 250px;
+  height: 134px;
+}
+.increaseThanYesterday1 {
+  position: absolute;
+  top: 104px;
+  left: 45px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.paidLeaveTakenItem {
+  position: absolute;
+  top: 101px;
+  left: 24px;
+  border-radius: 50%;
+  background-color: #ce7171;
+  width: 15px;
+  height: 15px;
+  opacity: 0.3;
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 2.99%;
+  width: 3.2%;
+  top: 79.85%;
+  right: 85.6%;
+  bottom: 17.16%;
+  left: 11.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.div3,
+.paidLeave1 {
+  position: absolute;
+  top: 77px;
+  left: 24px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.div3 {
+  top: 19px;
+  font-size: 38px;
+}
+.mdiweatherTimeIcon {
+  position: absolute;
+  top: 22px;
+  left: 191px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.paidLeave,
+.paidLeaveTaken {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 134px;
+}
+.paidLeave {
+  top: 154px;
+  left: 1022px;
+}
+.totalLeaves,
+.totalleavenumber {
+  position: absolute;
+  top: 87px;
+  left: 26px;
+  font-weight: 300;
+}
+.totalleavenumber {
+  top: 29px;
+  font-size: 38px;
+}
+.personhead2 {
+  position: absolute;
+  top: 17px;
+  left: 187px;
+  border-radius: 50%;
+  background-color: #e6eaf5;
+  width: 42px;
+  height: 42px;
+  opacity: 0.5;
+}
+.personbodyIcon,
+.personheadIcon,
+.personicon {
+  position: absolute;
+  height: 4.48%;
+  width: 5.6%;
+  top: 30.6%;
+  right: 15.2%;
+  bottom: 64.93%;
+  left: 79.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.personheadIcon,
+.personicon {
+  height: 5.97%;
+  width: 3.2%;
+  top: 21.64%;
+  right: 16.4%;
+  bottom: 72.39%;
+  left: 80.4%;
+}
+.personicon {
+  height: 13.36%;
+  width: 2.4%;
+  top: 21.74%;
+  right: 12.8%;
+  bottom: 64.9%;
+  left: 84.8%;
+}
+.totalLeaveSection {
+  position: absolute;
+  top: 154px;
+  left: 452px;
+  width: 250px;
+  height: 134px;
+  font-size: 16px;
+}
+.heroSectionLeaveChild {
+  position: absolute;
+  top: 154px;
+  left: 169px;
+  border-radius: 15px;
+  width: 250px;
+  height: 302px;
+}
+.today {
+  margin: 0;
+}
+.today10thJanuaryContainer {
+  position: absolute;
+  top: 98px;
+  left: 5px;
+  color: #252c58;
+}
+.am,
+.realtimeInsight1 {
+  position: absolute;
+  top: 38px;
+  left: 58px;
+  font-size: 12px;
+  font-weight: 300;
+  opacity: 0.5;
+}
+.am {
+  top: 8px;
+  font-size: 24px;
+}
+.viewAttendence {
+  position: relative;
+  font-weight: 300;
+}
+.viewattendance {
+  text-decoration: none;
+  position: absolute;
+  top: 188px;
+  left: 19px;
+  border-radius: 10px;
+  background-color: #3354f4;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 25px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;
+}
+.viewattendance:hover {
+  background-color: #7c8de0;
+}
+.viewattendance:active {
+  background-color: #3d50ad;
+}
+.sunvectorIcon {
+  position: absolute;
+  height: 21.49%;
+  width: 25%;
+  top: 0;
+  right: 75%;
+  bottom: 78.51%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.realtimeInsight {
+  position: absolute;
+  top: 204px;
+  left: 189px;
+  width: 196px;
+  height: 228px;
+  font-size: 18px;
+  color: #000;
+}
+.heroSectionLeave {
+  position: absolute;
+  top: 119px;
+  left: 0;
+  width: 1440px;
+  height: 544px;
+  overflow: hidden;
+  font-size: 12px;
+  color: #252c58;
+}
+.headerdividinglineIcon {
+  position: absolute;
+  top: 93px;
+  left: 32px;
+  width: 1370px;
+  height: 4px;
+  object-fit: contain;
+}
+.dashboard {
+  margin: 0;
+  position: absolute;
+  top: -4px;
+  left: 14px;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  width: 165px;
+  height: 33px;
+}
+.leads,
+.leaves1,
+.leaves2,
+.performance {
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+}
+.leaves2 {
+  text-decoration: none;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  font-family: Poppins;
+  color: #98a2b2;
+  text-align: left;
+  display: inline-block;
+}
+.leads,
+.leaves1,
+.performance {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0.4px;
+  width: 69.9px;
+  height: 18px;
+}
+.leads,
+.performance {
+  top: 0;
+  left: 90px;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 700;
+  font-family: Poppins;
+  color: #98a2b2;
+  text-align: left;
+  display: inline-block;
+  width: 37.6px;
+}
+.performance {
+  left: 168px;
+  width: 88px;
+}
+.firstbase,
+.menu {
+  position: absolute;
+  top: 4px;
+  left: 238px;
+  width: 256px;
+  height: 18.4px;
+}
+.firstbase {
+  height: 100%;
+  width: 23.15%;
+  top: 0;
+  right: 76.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 40px;
+  border: 3px solid #e6ebf2;
+  box-sizing: border-box;
+}
+.profileIcon {
+  position: absolute;
+  height: 75.11%;
+  width: 17.37%;
+  top: 12%;
+  right: 79.73%;
+  bottom: 12.89%;
+  left: 2.9%;
+  border-radius: 30px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.online {
+  position: absolute;
+  height: 12.44%;
+  width: 2.91%;
+  top: 17.5%;
+  right: 77.68%;
+  bottom: 70.06%;
+  left: 19.41%;
+  border-radius: 7.5px;
+  background-color: #17e933;
+}
+.employeeDesignation,
+.employeeName {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.employeeName {
+  width: 100%;
+  top: calc(50% - 16.2px);
+  line-height: 20px;
+  font-weight: 800;
+  height: 18px;
+}
+.employeeDesignation {
+  width: 82.4%;
+  top: calc(50% + 1.8px);
+  font-size: 10px;
+  line-height: 16px;
+  font-family: Inter;
+  color: #a3b6cc;
+  height: 14.4px;
+}
+.employeNameCard {
+  position: absolute;
+  width: 65.61%;
+  top: calc(50% - 16.2px);
+  right: -0.03%;
+  left: 34.42%;
+  height: 32.4px;
+}
+.avatar {
+  position: absolute;
+  height: 90%;
+  width: 14.36%;
+  top: -20%;
+  right: 8.59%;
+  bottom: 30%;
+  left: 77.06%;
+  font-size: 12px;
+  color: #294566;
+}
+.settings {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 1284px;
+  width: 23px;
+  height: 21px;
+  opacity: 0.5;
+}
+.onoffSolid,
+.settings,
+.vectorIcon7 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon7 {
+  height: 83.33%;
+  width: 83.48%;
+  top: 8.33%;
+  right: 8.19%;
+  bottom: 8.33%;
+  left: 8.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.onoffSolid {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 42%;
+  width: 1.69%;
+  top: 0;
+  right: 1.91%;
+  bottom: 58%;
+  left: 96.4%;
+}
+.admin,
+.header {
+  position: absolute;
+  top: 43px;
+  left: 36px;
+  width: 1363px;
+  height: 50px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 97px;
+  overflow: hidden;
+  font-size: 24px;
+  color: #475366;
+  font-family: Poppins;
+}
+.leaves {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Lexend;
+}

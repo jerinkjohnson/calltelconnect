@@ -1,0 +1,529 @@
+.formFrameChild {
+    position: absolute;
+    top: 82px;
+    left: 47px;
+    border-radius: 49px;
+    background-color: var(--color-white);
+    width: 1346px;
+    height: 778px;
+  }
+  .addressChild {
+    position: absolute;
+    top: 0;
+    left: 193px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 78px;
+    opacity: 0.62;
+  }
+  .address1,
+  .wGraySt {
+    cursor: pointer;
+    position: absolute;
+  }
+  .address1 {
+    top: 24px;
+    left: 0;
+    line-height: 64px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .wGraySt {
+    top: 35.9%;
+    left: 207px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .address,
+  .stateChild {
+    position: absolute;
+    top: 307px;
+    left: 108px;
+    width: 461px;
+    height: 78px;
+  }
+  .stateChild {
+    top: 0;
+    left: 193px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 53px;
+    opacity: 0.62;
+  }
+  .pennsylvania,
+  .state1 {
+    cursor: pointer;
+    position: absolute;
+  }
+  .state1 {
+    top: 12px;
+    left: 0;
+    line-height: 64px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .pennsylvania {
+    top: 35.85%;
+    left: 206px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .state {
+    position: absolute;
+    top: 415px;
+    left: 108px;
+    width: 461px;
+    height: 53px;
+  }
+  .label,
+  .phoneNumber1 {
+    cursor: pointer;
+    position: absolute;
+  }
+  .phoneNumber1 {
+    top: 11px;
+    left: 0;
+    line-height: 64px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .label {
+    height: 30.44%;
+    top: 45.03%;
+    left: 205px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+    display: inline-block;
+    width: 71px;
+  }
+  .phoneNumber {
+    position: absolute;
+    top: 508px;
+    left: 108px;
+    width: 461px;
+    height: 53px;
+  }
+  .ef5234512478965gf535d53689741f {
+    cursor: pointer;
+    position: absolute;
+    top: 35.85%;
+    left: 205px;
+  }
+  .jornayaIdOr {
+    margin-block-start: 0;
+    margin-block-end: 2px;
+  }
+  .trustedForm {
+    margin: 0;
+  }
+  .jornayaIdOrContainer1 {
+    width: 100%;
+  }
+  .jornayaIdOrContainer {
+    cursor: pointer;
+    position: absolute;
+    top: 8px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 18px;
+    font-weight: 600;
+    color: var(--color-black);
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .journayaId {
+    position: absolute;
+    top: 594px;
+    left: 108px;
+    width: 461px;
+    height: 53px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .label1,
+  .yearAtCampContainer {
+    cursor: pointer;
+    position: absolute;
+  }
+  .yearAtCampContainer {
+    top: 5px;
+    left: 0;
+    line-height: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .label1 {
+    top: 35.85%;
+    left: 205px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .emailIdChild,
+  .yaclejune {
+    position: absolute;
+    top: 679px;
+    left: 108px;
+    width: 461px;
+    height: 53px;
+  }
+  .emailIdChild {
+    top: 0;
+    left: 230px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 39px;
+    opacity: 0.62;
+  }
+  .curtisweaverexamplecom {
+    cursor: pointer;
+    position: absolute;
+    top: 30.77%;
+    left: 240px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .emailId {
+    top: 218px;
+    left: 720px;
+    width: 498px;
+    height: 39px;
+  }
+  .city,
+  .emailId,
+  .utica {
+    position: absolute;
+  }
+  .utica {
+    cursor: pointer;
+    top: 30.77%;
+    left: 244px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .city {
+    top: 295px;
+    left: 720px;
+    width: 498px;
+    height: 39px;
+  }
+  .zipCode {
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    line-height: 64px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .label2,
+  .zip,
+  .zipCode {
+    position: absolute;
+  }
+  .label2 {
+    cursor: pointer;
+    top: 30.77%;
+    left: 245px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .zip {
+    top: 372px;
+    left: 720px;
+    width: 498px;
+    height: 39px;
+  }
+  .areYouCurrentlyBeingRepresChild {
+    position: absolute;
+    top: 8px;
+    left: 240px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 65px;
+    opacity: 0.62;
+  }
+  .areYouCurrentlyContainer,
+  .no {
+    cursor: pointer;
+    position: absolute;
+  }
+  .no {
+    height: 48.02%;
+    top: 40.24%;
+    left: 263px;
+    display: inline-block;
+    width: 15px;
+  }
+  .areYouCurrentlyContainer {
+    top: 23px;
+    left: 10px;
+    font-size: var(--font-size-base);
+    line-height: 20px;
+    font-weight: 600;
+    color: var(--color-black);
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .areYouCurrentlyBeingRepres {
+    position: absolute;
+    top: 636px;
+    left: 710px;
+    width: 552px;
+    height: 82px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .medicalDiagnosisChild {
+    position: absolute;
+    top: 0;
+    left: 240px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 78px;
+    opacity: 0.62;
+  }
+  .anyMedicalDiagnosis,
+  .multipleMelanomaSarcoma {
+    cursor: pointer;
+    position: absolute;
+    top: 28.74%;
+    left: 254px;
+  }
+  .anyMedicalDiagnosis {
+    top: 9px;
+    left: 10px;
+    font-size: var(--font-size-base);
+    line-height: 64px;
+    font-weight: 600;
+    color: var(--color-black);
+    display: flex;
+    align-items: center;
+    width: 205px;
+    height: 37px;
+  }
+  .medicalDiagnosis {
+    position: absolute;
+    top: 541px;
+    left: 710px;
+    width: 508px;
+    height: 87px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .custnameChild {
+    position: absolute;
+    top: 0;
+    left: 193px;
+    border-radius: var(--br-6xs);
+    width: 268px;
+    height: 39px;
+    opacity: 0.62;
+  }
+  .johnDoe {
+    cursor: pointer;
+    position: absolute;
+    top: 30.77%;
+    left: 209px;
+    font-size: var(--font-size-3xs);
+    color: var(--color-gray);
+  }
+  .custname {
+    position: absolute;
+    top: 253px;
+    left: 108px;
+    width: 461px;
+    height: 39px;
+  }
+  .wereTheyLiving {
+    cursor: pointer;
+    width: 205px;
+    position: relative;
+    line-height: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    height: 37px;
+    flex-shrink: 0;
+    z-index: 0;
+  }
+  .lwClChild {
+    width: 268px;
+    position: relative;
+    border-radius: var(--br-6xs);
+    height: 55px;
+    object-fit: cover;
+    opacity: 0.62;
+    z-index: 1;
+  }
+  .lwCl,
+  .yes {
+    position: absolute;
+  }
+  .yes {
+    cursor: pointer;
+    width: 18px;
+    margin: 0 !important;
+    top: 20px;
+    left: 256px;
+    font-size: var(--font-size-3xs);
+    display: inline-block;
+    z-index: 2;
+  }
+  .lwCl {
+    top: calc(50% + 6px);
+    left: calc(50% - 0px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0 25px;
+  }
+  .headerTextChild {
+    width: 1292px;
+    position: relative;
+    border-radius: 38px;
+    height: 79px;
+    z-index: 0;
+  }
+  .campLejeuneLead {
+    cursor: pointer;
+    width: 367px;
+    position: absolute;
+    margin: 0 !important;
+    top: 7.5px;
+    left: 30.5px;
+    line-height: 64px;
+    font-weight: 800;
+    display: inline-block;
+    z-index: 1;
+  }
+  .imageIcon {
+    width: 40px;
+    position: relative;
+    border-radius: 50%;
+    height: 40px;
+    object-fit: cover;
+    z-index: 0;
+  }
+  .lalitSharma {
+    cursor: pointer;
+    width: 136px;
+    position: absolute;
+    margin: 0 !important;
+    top: 26px;
+    left: 74px;
+    line-height: 24px;
+    font-weight: 700;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .menuItem {
+    width: 220px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 16px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 0 12px;
+  }
+  .headerText,
+  .menuItemWrapper {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .menuItemWrapper {
+    margin: 0 !important;
+    top: 3px;
+    left: 416px;
+    z-index: 2;
+    font-size: 20px;
+    font-family: var(--font-outfit);
+  }
+  .headerText {
+    top: 88px;
+    left: 74px;
+    gap: 10px 0;
+    font-size: 36px;
+    color: var(--color-white);
+  }
+  .closeButtonChild {
+    position: absolute;
+    top: 5.5px;
+    left: 0;
+    border-radius: 105px;
+    background-color: #e1e6ff;
+    width: 108px;
+    height: 53px;
+  }
+  .close {
+    position: absolute;
+    top: 0;
+    left: 31.5px;
+    font-size: var(--font-size-base);
+    line-height: 64px;
+    font-weight: 600;
+    font-family: var(--font-poppins);
+    color: #2b47cf;
+    text-align: left;
+  }
+  .closeButton {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 95px;
+    left: 1240.5px;
+    width: 108px;
+    height: 64px;
+  }
+  .formFrame,
+  .viewLeadByAdmin {
+    position: relative;
+    overflow: hidden;
+  }
+  .formFrame {
+    width: 1440px;
+    height: 890px;
+    flex-shrink: 0;
+  }
+  .viewLeadByAdmin {
+    background-color: #e1e6fd;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  

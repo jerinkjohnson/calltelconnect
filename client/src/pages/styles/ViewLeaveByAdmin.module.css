@@ -1,0 +1,301 @@
+.formFrameChild {
+  position: absolute;
+  top: 82px;
+  left: 47px;
+  border-radius: 49px;
+  background-color: var(--color-white);
+  width: 1346px;
+  height: 778px;
+}
+.formFrameItem {
+  position: absolute;
+  top: 102px;
+  left: 74px;
+  border-radius: 38px;
+  width: 1292px;
+  height: 79px;
+}
+.leaveApplication {
+  cursor: pointer;
+  position: absolute;
+  top: 110px;
+  left: 133px;
+  font-size: 36px;
+  line-height: 64px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+.submitButtonChild {
+  position: absolute;
+  top: 5.5px;
+  left: 0.5px;
+  border-radius: 105px;
+  background-color: #e1e6ff;
+  width: 108px;
+  height: 53px;
+}
+.close {
+  position: absolute;
+  top: -0.5px;
+  left: 31.5px;
+  font-size: var(--font-size-base);
+  line-height: 64px;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: #2b47cf;
+  text-align: left;
+}
+.submitButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 108.5px;
+  left: 1240.5px;
+  border-radius: 252px;
+  width: 108px;
+  height: 64px;
+}
+.reason,
+.startDate {
+  cursor: pointer;
+  position: absolute;
+  top: 454px;
+  left: 108px;
+  line-height: 64px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 205px;
+  height: 37px;
+}
+.startDate {
+  top: 255px;
+  left: 780px;
+}
+.frameChild {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 268px;
+  height: 53px;
+  opacity: 0.62;
+}
+.feb2024 {
+  cursor: pointer;
+  position: absolute;
+  top: 71.7%;
+  left: 22px;
+}
+.vectorParent {
+  position: absolute;
+  top: 227px;
+  left: 973px;
+  width: 268px;
+  height: 53px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray);
+}
+.employeeName,
+.leaveType {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 64px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 205px;
+  height: 37px;
+}
+.leaveType {
+  top: 78px;
+}
+.employeeNameParent,
+.endDate {
+  position: absolute;
+  top: 253px;
+  left: 108px;
+  width: 205px;
+  height: 132px;
+}
+.endDate {
+  cursor: pointer;
+  top: 325px;
+  left: 780px;
+  line-height: 64px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  height: 37px;
+}
+.formFrameInner {
+  position: absolute;
+  top: 313px;
+  left: 973px;
+  border-radius: var(--br-6xs);
+  width: 268px;
+  height: 53px;
+  opacity: 0.62;
+}
+.feb20241 {
+  cursor: pointer;
+  position: absolute;
+  top: 37.42%;
+  left: 995px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray);
+}
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 268px;
+  height: 39px;
+  opacity: 0.62;
+}
+.lalitSharma {
+  cursor: pointer;
+  position: absolute;
+  top: 30.77%;
+  left: 16px;
+}
+.frameInner,
+.vectorGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 268px;
+  height: 39px;
+}
+.frameInner {
+  top: 20px;
+  border-radius: var(--br-6xs);
+  height: 45px;
+  opacity: 0.62;
+}
+.sickLeave {
+  cursor: pointer;
+  position: absolute;
+  top: 41.03%;
+  left: 18px;
+}
+.frameInput,
+.vectorContainer {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 268px;
+  height: 78px;
+}
+.frameInput {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  top: 162px;
+  height: 53px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  border-radius: var(--br-6xs);
+  width: 934px;
+  height: 211px;
+  opacity: 0.62;
+}
+.dearSirI {
+  cursor: pointer;
+  position: absolute;
+  height: 106.74%;
+  top: 180.67%;
+  left: 37px;
+  font-size: 22px;
+  display: inline-block;
+  width: 833px;
+}
+.frameParent {
+  position: absolute;
+  top: 253px;
+  left: 301px;
+  width: 268px;
+  height: 119px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray);
+}
+.imageIcon {
+  width: 40px;
+  position: relative;
+  border-radius: 50%;
+  height: 40px;
+  object-fit: cover;
+  z-index: 0;
+}
+.lalitSharma1 {
+  cursor: pointer;
+  width: 136px;
+  position: absolute;
+  margin: 0 !important;
+  top: 26px;
+  left: 74px;
+  line-height: 24px;
+  font-weight: 700;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  z-index: 1;
+}
+.menuItem,
+.menuItemWrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.menuItem {
+  top: 18px;
+  width: 220px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 0 12px;
+}
+.menuItemWrapper {
+  position: absolute;
+  top: 91px;
+  left: 490px;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 20px;
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+.formFrame,
+.viewLeaveByAdmin {
+  position: relative;
+  overflow: hidden;
+}
+.formFrame {
+  
+  width: 1440px;
+  height: 890px;
+  flex-shrink: 0;
+}
+.viewLeaveByAdmin {
+  background-color: #e1e6fd;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

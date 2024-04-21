@@ -1,0 +1,356 @@
+.adminLeadPageChild,
+.saly10Icon {
+  position: absolute;
+  top: 124px;
+  left: 32px;
+  width: 1370px;
+  height: 4px;
+  object-fit: contain;
+}
+.saly10Icon {
+  top: 700px;
+  left: 663px;
+  width: 113px;
+  height: 30px;
+  object-fit: cover;
+}
+.dashboard {
+  position: absolute;
+  top: -4px;
+  left: 14px;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 800;
+  display: inline-block;
+  width: 165px;
+  height: 33px;
+}
+.leads,
+.leaves {
+  line-height: 20px;
+}
+.leaves {
+  position: absolute;
+  top: 4.4px;
+  left: 0;
+  display: inline-block;
+  width: 69.92px;
+  height: 18px;
+}
+.leads {
+  position: relative;
+}
+.leadsWrapper {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  border-radius: 24px;
+  background-color: rgba(59, 130, 246, 0.15);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px var(--padding-3xs);
+  color: #3d4f6b;
+}
+.employee,
+.performance {
+  position: absolute;
+  top: 4px;
+  left: 180px;
+  line-height: 20px;
+  display: inline-block;
+  width: 88px;
+  height: 18px;
+}
+.performance {
+  left: 282px;
+  width: 110px;
+}
+.menu {
+  top: 0;
+  left: 238px;
+  width: 392px;
+  height: 28px;
+  color: var(--gray-300);
+}
+.base,
+.baseIcon,
+.menu {
+  position: absolute;
+}
+.base {
+  height: 100%;
+  width: 23.17%;
+  top: 0;
+  right: 76.83%;
+  bottom: 0;
+  left: 0;
+  border-radius: 40px;
+  border: 3px solid var(--color-aliceblue);
+  box-sizing: border-box;
+}
+.baseIcon {
+  height: 75%;
+  width: 17.38%;
+  top: 12%;
+  right: 79.73%;
+  bottom: 13%;
+  left: 2.9%;
+  border-radius: 30px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.base1 {
+  position: absolute;
+  height: 12.5%;
+  width: 2.9%;
+  top: 17.5%;
+  right: 77.7%;
+  bottom: 70%;
+  left: 19.41%;
+  border-radius: 7.5px;
+  background-color: #17e933;
+}
+.jacksonD,
+.mananger {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.jacksonD {
+  width: 100%;
+  top: calc(50% - 16.2px);
+  line-height: 20px;
+  font-weight: 800;
+  height: 18px;
+}
+.mananger {
+  width: 82.41%;
+  top: calc(50% + 1.8px);
+  font-size: var(--bold-10-size);
+  line-height: 16px;
+  font-family: var(--bold-10);
+  color: #a3b6cc;
+  height: 14.4px;
+}
+.jacksonDParent {
+  position: absolute;
+  width: 65.58%;
+  top: calc(50% - 16.2px);
+  right: 0;
+  left: 34.42%;
+  height: 32.4px;
+}
+
+.avatar {
+  position: absolute;
+  height: 90%;
+  width: 14.36%;
+  top: -20%;
+  right: 8.58%;
+  bottom: 30%;
+  left: 77.06%;
+  color: #294566;
+}
+.icon,
+.onoffSolidIcon {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.icon {
+  left: 1284px;
+  width: 23px;
+  height: 21px;
+  opacity: 0.5;
+}
+.onoffSolidIcon {
+  height: 42%;
+  width: 1.69%;
+  right: 1.91%;
+  bottom: 58%;
+  left: 96.4%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.admin,
+.adminWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1363px;
+  height: 50px;
+}
+.adminWrapper {
+  top: 65px;
+  left: 38px;
+  font-size: var(--font-size-xs);
+  color: var(--gray-600);
+  font-family: var(--font-poppins);
+}
+.addCampaign {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-lexend);
+  color: var(--color-white);
+  text-align: left;
+}
+.addCampaignWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-17xl);
+  background-color: var(--color-mediumblue);
+  position: absolute;
+  top: 162px;
+  left: 1142px;
+  border-radius: 17px;
+  box-shadow: 6px 6px 24.3px rgba(51, 84, 244, 0.26);
+  width: 222px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 356px;
+  height: 364px;
+}
+.groupItem {
+  position: absolute;
+  top: 123px;
+  left: 57px;
+}
+.campLejeune,
+.campaign11,
+.lastMonth,
+.todaysLead {
+  cursor: pointer;
+  position: absolute;
+  top: 183px;
+  left: 86px;
+  font-weight: 300;
+  display: inline-block;
+  width: 204px;
+  height: 24px;
+}
+.campaign11,
+.lastMonth,
+.todaysLead {
+  top: 212px;
+  left: 76px;
+}
+.campaign11,
+.lastMonth {
+  top: 245px;
+  font-size: var(--font-size-sm);
+  width: 166px;
+  height: 20px;
+}
+.campaign11 {
+  top: 136px;
+  left: 66px;
+  font-size: var(--font-size-19xl);
+  width: 224px;
+  height: 59.5px;
+}
+.vectorParent {
+  width: 356px;
+  position: relative;
+  height: 364px;
+  z-index: 0;
+}
+.viewLeads {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-lexend);
+  color: var(--color-white);
+  text-align: left;
+}
+.campaign1,
+.campaign2,
+.viewLeadsWrapper {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+.viewLeadsWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-17xl);
+  background-color: var(--color-mediumblue);
+  width: 166px;
+  margin: 0 !important;
+  top: 288px;
+  left: 95px;
+  border-radius: var(--br-2xs);
+  box-shadow: 6px 6px 24.3px rgba(51, 84, 244, 0.26);
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.campaign1,
+.campaign2 {
+  top: 274px;
+  left: 346px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.campaign2 {
+  left: 732px;
+}
+.addedCampaignVector,
+.addedCampaignVector1 {
+  position: absolute;
+  top: 358px;
+  left: 38px;
+  width: 274px;
+  height: 280px;
+  opacity: 0.29;
+}
+.addedCampaignVector1 {
+  left: 1142px;
+}
+.dailyTotal {
+  cursor: pointer;
+  position: relative;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.dailyTotal18LeadsWrapper {
+  position: absolute;
+  top: 658px;
+  left: 346px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-aliceblue);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) 189px;
+  font-size: 30px;
+}
+.adminLeadPage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 775px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-lexend);
+}

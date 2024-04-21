@@ -1,0 +1,225 @@
+.headerdividinglineIcon {
+  position: absolute;
+  top: 93px;
+  left: 32px;
+  width: 1370px;
+  height: 4px;
+  object-fit: contain;
+}
+.dashboard {
+  margin: 0;
+  position: absolute;
+  top: -4px;
+  left: 14px;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  width: 165px;
+  height: 33px;
+}
+.employee,
+.leads,
+.leaves,
+.leaves1,
+.performance,
+.camp {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  left: 0;
+}
+.leaves1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  font-size: var(--small-semibold-size);
+  line-height: 20px;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--gray-300);
+  text-align: left;
+  display: inline-block;
+}
+.employee,
+.leads,
+.leaves,
+.performance,
+.camp {
+  top: 0.4px;
+  width: 69.92px;
+  height: 18px;
+}
+.employee,
+.leads,
+.performance,
+.camp {
+  top: 0;
+  left: 90px;
+  font-size: var(--small-semibold-size);
+  line-height: 20px;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  color: var(--gray-300);
+  text-align: left;
+  display: inline-block;
+  width: 37.65px;
+}
+.employee,
+.performance,
+.camp {
+  left: 168px;
+  width: 88px;
+}
+.performance {
+  left: 173px;
+}
+.camp{
+  left: 370px;
+}
+.firstbase,
+.menu {
+  position: absolute;
+  top: 4px;
+  left: 238px;
+  width: 347px;
+  height: 18.4px;
+}
+.firstbase {
+  height: 100%;
+  width: 23.17%;
+  top: 0;
+  right: 76.83%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  border: 3px solid var(--color-aliceblue-100);
+  box-sizing: border-box;
+}
+.profileIcon {
+  position: absolute;
+  height: 75%;
+  width: 17.38%;
+  top: 12%;
+  right: 79.73%;
+  bottom: 13%;
+  left: 2.9%;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.online {
+  position: absolute;
+  height: 12.5%;
+  width: 2.9%;
+  top: 17.5%;
+  right: 77.7%;
+  bottom: 70%;
+  left: 19.41%;
+  border-radius: var(--br-5xs-5);
+  background-color: var(--color-limegreen);
+}
+.employeeDesignation,
+.employeeName {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.employeeName {
+  width: 100%;
+  top: calc(50% - 16.2px);
+  line-height: 20px;
+  font-weight: 800;
+  height: 18px;
+}
+.employeeDesignation {
+  width: 82.41%;
+  top: calc(50% + 1.8px);
+  font-size: var(--bold-10-size);
+  line-height: 16px;
+  font-family: var(--bold-14);
+  color: var(--color-lightsteelblue-100);
+  height: 14.4px;
+}
+.employeNameCard {
+  position: absolute;
+  width: 65.58%;
+  top: calc(50% - 16.2px);
+  right: 0;
+  left: 34.42%;
+  height: 32.4px;
+}
+.avatar {
+  position: absolute;
+  height: 90%;
+  width: 14.36%;
+  top: -20%;
+  right: 8.58%;
+  bottom: 30%;
+  left: 77.06%;
+  font-size: var(--small-semibold-size);
+  color: var(--color-darkslategray-100);
+}
+.settings {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 1284px;
+  width: 23px;
+  height: 21px;
+  opacity: 0.5;
+}
+.onoffSolid,
+.settings,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 83.33%;
+  width: 83.33%;
+  top: 4.76%;
+  right: 12.32%;
+  bottom: 11.9%;
+  left: 4.35%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.onoffSolid {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 42%;
+  width: 1.69%;
+  top: 0;
+  right: 1.91%;
+  bottom: 58%;
+  left: 96.4%;
+}
+.admin,
+.header {
+  position: absolute;
+  top: 43px;
+  left: 36px;
+  width: 1363px;
+  height: 50px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 97px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-h3-size);
+  color: var(--gray-600);
+  font-family: var(--font-poppins);
+}
